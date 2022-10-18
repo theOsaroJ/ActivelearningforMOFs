@@ -5,7 +5,7 @@ author: Etinosa Osaro, krishnendu mukherjee & Yamil J Colon
 '''
 
 #### ------- Objective ------- ####
-## To run CH4 in NU800  MOF simulations until we get a max. relative error within 2%
+## To run CH4 in Cu-BTC  MOF simulations until we get a max. relative error within 2%
 
 #Making a datafile
 data="Prior.csv"
