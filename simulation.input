@@ -5,7 +5,7 @@ PrintEvery                    2000
 
 ContinueAfterCrash            no
 WriteBinaryRestartFileEvery   2000
-UseChargesFromCIFFile         yes
+
 
 Forcefield                    UFF
 RemoveAtomNumberCodeFromLabel yes
